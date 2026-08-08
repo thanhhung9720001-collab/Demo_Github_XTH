@@ -1,2 +1,2 @@
-this is function 2
-Nguyen Cat Tuong
+Đây là chức năng 2
+Nguyễn Cát Tường
