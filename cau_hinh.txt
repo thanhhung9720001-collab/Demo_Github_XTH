@@ -1,2 +1,4 @@
+chieu dai = 12
+chieu rong = 15
 chieu dai = muoi lắm met
 chieu rong = nam met
